@@ -2,7 +2,7 @@
 
 A deep learning approach using the YOLOv5 model to detect and classify traffic lights in photos and videos as red, yellow, and green.
 
-
+[My image](https://github.com/samsontran/Traffic-Light-Detection-System/blob/main/traffic_light_detect.jpg)
 
 This approach first performs a segmentation task, where all traffic lights are detected with bounding boxes. For all illuminated traffic lights, the model then identifies their color as red, green or yellow. This project will be beneficial for autonomous driving vehicle applications 
 
