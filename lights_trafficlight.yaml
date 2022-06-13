@@ -1,6 +1,0 @@
-
-train: /content/drive/MyDrive/yolov5/Dataset_Split_Multiclass/images/train
-val: /content/drive/MyDrive/yolov5/Dataset_Split_Multiclass/images/val
-
-nc: 4
-names: ['black', 'green', 'red', 'yellow']
