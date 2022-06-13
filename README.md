@@ -2,7 +2,7 @@
 
 With autonomous vehicles becoming a popular technology in our society, it is important to research and develop ways to improve their performance for the safety of passengers and pedestrians. For this project, I explore how these vehicles can apply computer vision techniques through incoming videos to recognize traffic lights. This can eventually help these systems learn when to stop or continue moving as they approach an intersection with a green, red or yellow light. 
 
-![alt text](https://github.com/samsontran/Traffic-Light-Detection-System/blob/main/traffic_light_detect.jpg)
+![00244_1](https://user-images.githubusercontent.com/90397706/173420269-3ac644c4-f30d-499e-878e-7e8fc30c67dc.jpg)
 
 [![]https://github.com/samsontran/Traffic-Light-Detection-System/blob/main/traffic_light_detect.mp4](https://user-images.githubusercontent.com/90397706/172431838-4272df76-5f9e-40ef-a2ed-527bdf66aa1e.mov)
 
